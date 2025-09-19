@@ -1,0 +1,15 @@
+body { background : black; margin-top: 20px; margin-bottom : 20px }
+
+div {width : 650px; margin: auto ; border : white dotted 1px; padding: 25px }
+
+h1 { color : white }
+
+h2 { color : white }
+
+p { color : white } 
+
+span { color : white } 
+
+a { color : white } 
+iframe { border :1px; color : white; } 
+
